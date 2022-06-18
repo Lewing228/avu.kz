@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 26 26">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+</metadata>
+<defs/>
+<g id="Слой 1" vectornator:layerName="Слой 1">
+<path stroke="#6064bc" stroke-width="2" d="M12.6867-8.35518C11.1289-8.35518+5.52127-11.1209+5.52127-10.0164C5.52127-8.91179+11.1289-4.35518+12.6867-4.35518C14.2445-4.35518+15.5074-5.25061+15.5074-6.35518C15.5074-7.45975+14.2445-8.35518+12.6867-8.35518Z" fill="#6064bc" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#6064bc" stroke-width="2" d="M24+3L24+21M2+3L2+21" fill="#6064bc" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#6064bc" stroke-width="2" d="M2+16.5343C2+16.2399+2.449+16+3+16L23+16C23.551+16+24+16.2399+24+16.5343L24+17.6029C24+17.8972+23.551+18.1371+23+18.1371L3+18.1371C2.449+18.1371+2+17.8972+2+17.6029L2+16.5343Z" fill="#6064bc" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+<path stroke="#6064bc" stroke-width="2" d="M2+6L24+6M11+6L11+17M7+6L7+17M15+6L15+17M19+6L19+17" fill="#6064bc" stroke-linecap="round" opacity="1" stroke-linejoin="round"/>
+</g>
+</svg>

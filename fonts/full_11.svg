@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 28 28">
+<metadata>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="PencilOnly" value="0"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="OutlineMode" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+<vectornator:setting key="CMYKEnabledKey" value="0"/>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="doHistoryDisabled" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="TimeLapseWatermarkDisabled" value="0"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="IsolateActiveLayer" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="Units" value="Pixels"/>
+</metadata>
+<defs/>
+<g id="Слой 1 скопировать" vectornator:layerName="Слой 1 скопировать">
+<path d="M31.618+7.46486L49.3776+10.3969" opacity="1" fill="#fff"/>
+<path d="M11.2635+13.911L6.7565+19.396C6.7565+19.396+8.4925+20.652+14.2345+20.652C19.9765+20.652+21.5255+19.396+21.5255+19.396L17.7355+14.796C17.7355+14.796+13.0155+15.071+11.2635+13.911Z" opacity="1" fill="#fff"/>
+<path d="M14.1405+7.01104L9.1485+13.402C9.1485+13.402+11.5205+14.19+14.2035+14.19C16.8865+14.19+19.1325+13.402+19.1325+13.402L14.1405+7.01104ZM9.0845+20.199L4.9095+24.78C4.9095+24.78+7.2605+26.19+14.2565+26.19C21.2525+26.19+23.3705+24.78+23.3705+24.78L19.9695+21.065C19.9705+21.066+13.2865+22.493+9.0845+20.199Z" opacity="1" fill="#fff"/>
+<path d="M14.1405+2.19004L14.8885+4.05204L16.8905+4.18804L15.3505+5.47404L15.8395+7.42004L14.1405+6.35304L12.4415+7.42004L12.9305+5.47404L11.3905+4.18804L13.3925+4.05204L14.1405+2.19004Z" opacity="1" fill="#fff"/>
+</g>
+</svg>
